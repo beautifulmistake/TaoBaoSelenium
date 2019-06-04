@@ -1,0 +1,2 @@
+# TaoBaoSelenium
+使用selenium的技术抓取淘宝的商品信息
