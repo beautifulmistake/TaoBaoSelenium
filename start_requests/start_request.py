@@ -196,7 +196,7 @@ class TaoBaoStartRequest(object):
 
 # 测试代码
 if __name__ == "__main__":
-    t = TaoBaoStartRequest('penggeilove', 'pengfei38')
+    t = TaoBaoStartRequest('your account', 'your password')
     # 模拟登陆
     t.login()
     # 搜索
